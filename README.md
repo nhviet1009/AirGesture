@@ -5,7 +5,7 @@
 Here is my python source code for AirGesture - Play games without touching keyboard. This project is an application of hand detection model in Tensorflow. With my code, you could play many games on PC without using any keyboard. At the moment you could play the following games 
 * **Super Mario Bros** by running the **script mario.py**
 * **Battle City** by running the script **battle_city.py**
-* **Dinosaur Game** by running the script **dinosaur.py**
+* **Dinorex** by running the script **dinorex.py**
 
 Please make sure that only one hand shown in front of camera. Otherwise scripts may not work as well as you expect
 ## Super Mario Bros
@@ -38,7 +38,7 @@ Here is the mapping between your gesture and tank's movement:
   <i>Battle City</i>
 </p>
 
-## Dinosaur Game
+## Dinorex Game
 The screen is splitted into 2 equal parts vertically.
 Here is the mapping between your gesture and dinosaur's action:
 - **Closed hand** -> Run
@@ -46,7 +46,7 @@ Here is the mapping between your gesture and dinosaur's action:
 - **Open hand within the lower part** -> Duck
 
 <p align="center">
-  <img src="demo/Dinosaur_demo.gif" width=800><br/>
+  <img src="demo/Dinorex_demo.gif" width=800><br/>
   <i>Dinosaur</i>
 </p>
 
